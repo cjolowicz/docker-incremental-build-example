@@ -9,3 +9,4 @@ COPY . /src
 WORKDIR /build
 RUN cmake /src
 RUN make package
+CMD ["true"]
