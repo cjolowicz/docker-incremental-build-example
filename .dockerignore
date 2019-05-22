@@ -1,3 +1,5 @@
 .git
 Dockerfile
+Dockerfile.init
+docker-compose.init.yml
 docker-compose.yml
